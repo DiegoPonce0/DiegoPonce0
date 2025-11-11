@@ -5,8 +5,7 @@
 
 ### Contact Me
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fcoral-hare-100844.hostingersite.com%2F
-)][website]
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fcoral-hare-100844.hostingersite.com%2F)
 
 
 ### My social media
