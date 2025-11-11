@@ -1,34 +1,34 @@
-# 👋 Hey, I'm Diego Gael
+# Hi, I'm Diego Ponce
 
-I'm a Web Developer based in Vancouver, BC. I love building clean, fast and functional websites, solving tech problems, and helping businesses grow online.
+:computer: **Computer Systems Specialist**  
 
-## 🔧 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React (Vite), Tailwind CSS  
-- **Backend:** Node.js, Express, Socket.IO  
-- **CMS:** WordPress, WooCommerce, Avada, Gutenberg  
-- **Other:** SEO, Web Analytics, Git, Linux, Hosting & Server Management
 
-## 🚀 What I Do
-- Build landing pages and full websites for brands in Canada and Mexico  
-- Fix bugs, broken plugins, hosting issues, migrations  
-- SEO optimization and content strategy  
-- Real time apps with React + Node.js  
-- E-commerce setup and optimization
+### Contact Me
 
-## 🧠 Currently Learning
-- Advanced React patterns  
-- CI/CD basics and DevOps fundamentals  
-- Improving my Frontend portfolio projects  
-- AI tools for marketing and development  
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fcoral-hare-100844.hostingersite.com%2F
+)][website]
 
-## 💼 Recent Projects
-- **Real-time collaborative editor** using React, TypeScript, Node.js and Socket.IO  
-- **Wholly Noggin website** (Vancouver nutrition brand)  
-- **Landing page for lots in Boca de Tomates, Puerto Vallarta**  
 
-## 📫 Contact Me
-- 🌐 Portfolio: .com  
-- 📧 Email: diego_lpz29@hotmail.com  
-- 📍 Vancouver, Canada
+### My social media
+[<img src="./assets/social/linkedin.png"/>][linkedin]
 
-Thanks for stopping by. Always building, always learning.
+
+### Lets talk about...
+<img src="./assets/tech/csharp_dotnet.png"/><img src="./assets/tech/python.png"/><img src="./assets/tech/go.png"/><img src="./assets/tech/bash.png"/>
+<img src="./assets/tech/ai.png"/><img src="./assets/tech/azure.png"/><img src="./assets/tech/cloud.png"/><img src="./assets/tech/docker.png"/>
+
+### Im learning...
+<img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
+
+
+### :zap: Recent Activity
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, November 11th, 2025, 2:03:31 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+
+[website]: https://coral-hare-100844.hostingersite.com/
+[linkedin]: https://www.linkedin.com/in/diego-ponce-712991217/
