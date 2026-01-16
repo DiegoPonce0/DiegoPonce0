@@ -34,7 +34,6 @@ I am a results-driven Web Developer with **5+ years of experience** building hig
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-ponce-712991217/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge)](https://diego-ponce.vercel.app/)
 
-### ⚡ Recent Activity
 ---
 
 ### :zap: Recent Activity
