@@ -5,7 +5,6 @@ I am a results-driven Web Developer with **5+ years of experience** building hig
 
 - 🚀 **Currently focused on**: React, Node.js, and Technical SEO.
 - 🎓 **Education**: Bachelor’s Degree in Computer Science.
-- 📈 **Proven Impact**: Improved site speeds by **30%** and organic traffic by **50%**.
 
 ---
 
@@ -14,17 +13,16 @@ I am a results-driven Web Developer with **5+ years of experience** building hig
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Frameworks** | JavaScript (ES6+), React.js, Node.js, PHP, TypeScript, HTML5, CSS3, SQL |
-| **CMS & E-commerce** | WordPress (Custom Themes/Plugins), WooCommerce, Shopify, Laravel |
+| **CMS & E-commerce** | WordPress, WooCommerce, Shopify |
 | **DevOps & Cloud** | Docker, GitHub Actions, CI/CD, Jenkins, Vercel, Netlify, cPanel |
 | **Marketing Tech** | GA4, Google Tag Manager, Search Console, SEMrush, Technical SEO Audits |
-| **Design** | Responsive Web Design, Figma, Adobe Photoshop, Illustrator |
+| **Design** | Responsive Web Design, Figma, Adobe Photoshop |
 
 ---
 
 ### 📊 Professional Highlights
 
 * **Performance Optimization**: Achieved a 30% increase in site speed through advanced caching and image optimization.
-* **Scalable Deployment**: Implemented CI/CD pipelines using GitHub Actions and Docker, reducing deployment errors and migration downtime by 90%.
 * **Growth Engineering**: Executed SEO strategies resulting in Top 3 Google rankings for 12+ industry keywords.
 * **Conversion Focus**: Developed landing pages that boosted conversion rates by 15% and CTR by 22%.
 
@@ -32,7 +30,7 @@ I am a results-driven Web Developer with **5+ years of experience** building hig
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-ponce-712991217/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge)](https://diego-ponce.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge)](https://portfolio-diego-ponce.vercel.app/)
 
 ---
 
