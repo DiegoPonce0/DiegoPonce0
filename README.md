@@ -36,12 +36,12 @@ I am a results-driven Web Developer with **5+ years of experience** building hig
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/WebEmpleo](https://github.com/DiegoPonce0/WebEmpleo)<br>
-2. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/WebEmpleo](https://github.com/DiegoPonce0/WebEmpleo)<br>
-3. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/WebEmpleo](https://github.com/DiegoPonce0/WebEmpleo)<br>
-4. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/WebEmpleo](https://github.com/DiegoPonce0/WebEmpleo)<br>
-5. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/WebEmpleo](https://github.com/DiegoPonce0/WebEmpleo)<br>
+1. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/portfolio](https://github.com/DiegoPonce0/portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/DevJobs](https://github.com/DiegoPonce0/DevJobs)<br>
+3. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/DevJobs](https://github.com/DiegoPonce0/DevJobs)<br>
+4. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/DevJobs](https://github.com/DiegoPonce0/DevJobs)<br>
+5. ⬆️ Pushed undefined commit(s) to [DiegoPonce0/DevJobs](https://github.com/DiegoPonce0/DevJobs)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 6th, 2026, 1:25:34 PM
+Last Updated: Thursday, May 7th, 2026, 1:49:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
