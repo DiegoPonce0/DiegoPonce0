@@ -3,7 +3,7 @@
 ### Full Stack Web Developer & SEO Specialist | Vancouver, BC
 I am a results-driven Web Developer with **5+ years of experience** building high-performance websites and optimizing digital growth. I specialize in bridging the gap between technical development and marketing strategy.
 
-- 🚀 **Currently focused on**: React, Node.js, and Technical SEO.
+- 🚀 **Currently focused on**: React, Node.js, Express.js, and PostgreSQL.
 - 🎓 **Education**: Bachelor’s Degree in Computer Science.
 
 ---
@@ -12,19 +12,13 @@ I am a results-driven Web Developer with **5+ years of experience** building hig
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | JavaScript (ES6+), React.js, Node.js, PHP, TypeScript, HTML5, CSS3, SQL |
-| **CMS & E-commerce** | WordPress, WooCommerce, Shopify |
-| **DevOps & Cloud** | Docker, GitHub Actions, CI/CD, Jenkins, Vercel, Netlify, cPanel |
-| **Marketing Tech** | GA4, Google Tag Manager, Search Console, SEMrush, Technical SEO Audits |
-| **Design** | Responsive Web Design, Figma, Adobe Photoshop |
-
----
-
-### 📊 Professional Highlights
-
-* **Performance Optimization**: Achieved a 30% increase in site speed through advanced caching and image optimization.
-* **Growth Engineering**: Executed SEO strategies resulting in Top 3 Google rankings for 12+ industry keywords.
-* **Conversion Focus**: Developed landing pages that boosted conversion rates by 15% and CTR by 22%.
+| **Front-End Development** | React.js, React Native, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Responsive Design |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, Authentication, API Integrations, GraphQL |
+| **Databases** | SQL, PostgreSQL, MySQL, MongoDB |
+| **Cloud & DevOps** | Docker, CI/CD, GitHub Actions, Vercel, Netlify, AWS, EC2, S3, Cloud Deployment |
+| **Headless CMS** | WordPress (Custom Themes/Plugins), Strapi |
+| **Testing & Debugging** | Unit Testing, Debugging |
+| **Development Practices** | Agile/Scrum Workflows, Clean Code, Scalable Architecture, Git/GitHub |
 
 ---
 
