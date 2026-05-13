@@ -1,6 +1,6 @@
 # Hi, I'm Diego Ponce 👋
 
-### Full Stack Web Developer & SEO Specialist | Vancouver, BC
+### Full Stack Web Developer | Vancouver, BC
 Full Stack Developer focused on building scalable web applications and high-performance digital experiences using the PERN stack, (PostgreSQL, Express.js, React, Node.js.)
 
 I enjoy developing modern web applications with clean architecture, responsive interfaces, RESTful APIs, and cloud-based deployment workflows. My background combines frontend and backend development with performance optimization and user-focused design.
